@@ -1,0 +1,8 @@
+papi/refresh_copier.py
+papi/refresh_strategies.py
+.DS_Store
+__pycache__/
+*.pyc
+.env
+*.json
+.venv/
